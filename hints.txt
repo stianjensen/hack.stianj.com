@@ -1,0 +1,33 @@
+# Hints
+===============================
+
+General: Remember that all letters in the solution are lower case.
+
+1. Your name. Your FIRST name.
+   If there's not enough space for your whole name in this exercise, it's okay.
+   Only the first part is important for the final solution.
+
+2. Don't count the number of hyphens in hashtags. Count the number of tweets with
+   hashtags containing hyphens.
+   Because: note that not all hashtags consist of multiple words.  You can regard a
+   tweet as being written by a hyphen entusiast as long as  it  contains  at  least
+   one hashtag with hyphens.
+
+3. The message is compressed, somehow.
+   And only half the file is an image \o/
+
+4. Find images of emojis for each platform, not just the default unicode version.
+
+6. If you need help deducing which slaves were guarding which animal,
+   ask the judge.
+   "Paper-shaped species" means they are actually just pieces of paper with writing
+   on them.
+
+8. The website is of course http://dwitter.lionleaf.org
+   You should really be able to figure out the correct username and dweet yourself.
+
+9. Use the letters in the other columns to reorder the lines.
+   The last sentence is irony. You need to get it right.
+
+---------------------------------------------
+This list might be updated during the contest.

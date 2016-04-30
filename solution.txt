@@ -1,0 +1,112 @@
+  _   _            _             _
+ | | | | __ _  ___| | _____ _ __( )___
+ | |_| |/ _` |/ __| |/ / _ \ '__|// __|
+ |  _  | (_| | (__|   <  __/ |    \__ \        _
+ |_|_|_|\__,_|\___|_|\_\___|_|  __|___/_ __ __| |
+  / __| '__/ _ \/ __/ __\ \ /\ / / _ \| '__/ _` |
+ | (__| | | (_) \__ \__ \\ V  V / (_) | | | (_| |
+  \___|_|  \___/|___/___/ \_/\_/ \___/|_|  \__,_|
+  _ __  _   _ _______| | ___
+ | '_ \| | | |_  /_  / |/ _ \
+ | |_) | |_| |/ / / /| |  __/
+ | .__/ \__,_/___/___|_|\___|
+ |_|
+
+    +---+---+---+---+---+---+---+---+---+---+
+1.  |   |   |   |> <|   |   |   |   |   |   |
+2.          | t |>h<| h |
+3.      | y | o |>l<| o |
+4.  | f | r | a |>n<| c | e |
+5.      | a | m |>a<| z | i | n | g |
+                  .
+6.  | a | b | e |>d<|
+7.              |>j<| e | s | u | s |
+8.              |>v<| e | d |
+9.  | l | k | c |>u<| c | c | a | s | f | c |
+    +---+---+---+---+---+---+---+---+---+---+
+
+* Protip: use the replace mode in vim to input letters.
+* Input all letters as lowercase in the crossword.
+
+   ___                  _      __  _           _
+  / _ \___ ___ ________(_)__  / /_(_)__  ___  (_)
+ / // / -_|_-</ __/ __/ / _ \/ __/ / _ \/ _ \_
+/____/\__/___/\__/_/ /_/ .__/\__/_/\___/_//_(_)
+======================/_/=======================================================
+
+1.  Yo name.
+    Literally, put your first name as the solution in the first row.
+
+2.  After the Hashtag Bandit's campaign last winter, two camps of hashtag  users
+    have formed.  There's 'The Conscious Conservatives' who adhere to a strictly
+    no-hyphens-in-hashtags policy (as you  can  see,  they  are  avid  users  of
+    hyphens in policy names, though). The other camp of hashtag users take every
+    opportunity they get to spice up their lives with word-separating horizontal
+    lines, and call themselves 'The Hardcore Hypheneers'.
+    The Hashtag Bandit wants to find out the effects  of  his  campaigning,  and
+    has hired you to do some research for him.  He wants to know  which  of  the
+    camps have the most (and the most active)  followers.   He  has  compiled  a
+    list  of  recent  social  media  content  for  you,  and   wants   to   know
+    whether  there  are  more  hyphen-containing  or  hyphenless  hashtags   out
+    there.    Find   the   list   at   https://hack.stianj.com/marijuanatags.txt
+    The answer is the most popular group's acronym.
+
+3.  Yes,  there is text in this picture,  but the important word is not the  one
+    you see. https://hack.stianj.com/message.gif
+    Oh,  and the hidden message  is not the solution.  It's the location of  the
+    answer.
+
+4.  Enrique McEmoji wanted  to  send  his  friends  an  emoji  to  describe  his
+    financial status after winning in  a  casino.   Unfortunately,  all  of  his
+    friends are hardcore Apple fanboys and use iPhones.  Enrique, on  the  other
+    hand, has created his own smart phone out of an  old  TI-84  calculator  and
+    some gum,  running  his  own  operating  system  called  OSOS  (open  source
+    operating system).  For emoji support, he's chosen to use Emoji One 2.1,  an
+    open source collection of images following the unicode  specification.   The
+    problem occured when he sent the 'Slot Machine' emoji (U+1F3B0).  While  all
+    his friends saw three red colored digits in the emoji  they  received,  this
+    was not the colors of the emoji he  had  sent.   Can  you  describe  to  the
+    unfortunate iPhone users which colors Enrique saw when sending the emoji, by
+    telling them which country's flag they resemble?  (Because of a  programming
+    error in OSOS, the image on his screen is flipped horizontally, but  Enrique
+    doesn't mind, since he can read backwards anyway).
+
+5.  The source code of  a  famous  demo  group's  internal demo  tool   has some
+    controversial meanings about certain people.  Specifically, people  using  a
+    tool of the hypertext markup language precompiler  variety.   Unfortunately,
+    this precompiler device  was  only  used  in  very  early  versions  of  the
+    software, so you'll have to do some digging to find it.  What was the source
+    code's verdict on people using this precompilation  tool?   That  is,  which
+    adjective was used to describe this species?
+
+6.  Many animals keep their unborn children warm by  sleeping  on  top  of  them
+    [citation   needed].    Now,   this   one   guy    called    Farmster    von
+    Animalsterville  is  breeding  some  kind  of  weird  looking   paper-shaped
+    species.  Last night, he got a group of four human slaves to sleep on top of
+    them.  He'd like you to find  the  animals,  and  report  back  their  names
+    (for efficiency, all of them  have  one-letter  names).   Report  the  names
+    ordered by the age of  the  humans  that  kept  each  of  them  warm  during
+    the  night,  from  oldest  to  youngest.
+
+7.  Not everything is actually what it looks like.  Get rid  of  all  the  phony
+    stuff, and what remains is your answer.
+    https://hack.stianj.com/unnecessaryletters.txt
+
+8.  Simon Sceneman has  created  a  cool  demo  on  a  semi-popular  tweet-sized
+    demo website.  For a demo created by someone whose last name  is  'Sceneman'
+    it's not very good, to be honest.  Anyway, go find it  and  then  come  back
+    here.
+    You're back?  Good.  Now run up to the main road, and find  the  thing  that
+    looks like what you saw in the demo. Below it is a sign. The answer you're
+    looking for is the second word on that sign.
+
+9.  The first column contains vital information, but you'll need to use the next
+    columns to reorder the lines in the correct order. The important information
+    is written in an  unknown  language  so  you'll  just  have  to  trust  your
+    instincts that you found the correct word.  It'll only be used as a  nuclear
+    bomb launch  code,  so  it's  okay  if  you  don't  get  it  exactly  right.
+    https://hack.stianj.com/order.txt
+
+--------------------------------------------------------------------------------
+    Are you stuck on any of the exercises?
+    Check out https://hack.stianj.com/hints.txt

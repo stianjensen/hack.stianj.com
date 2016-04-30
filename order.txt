@@ -1,0 +1,10 @@
+constructor
+undefined
+lambda
+coke
+kebab
+chicken
+curry
+argument
+function
+strawberry
